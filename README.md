@@ -1,6 +1,6 @@
 # Keeon Simulator
 Keeon Simulator is the story of a guy named Keeon before the events of the Keeon Wars.
-Keeon Simulator:
+Keeon Simulator: Director's
 
 The Game Of The Year Edition: https://scratch.mit.edu/projects/435155074/
 
